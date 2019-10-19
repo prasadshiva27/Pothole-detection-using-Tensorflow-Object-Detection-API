@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Pothole_Image_Data</folder>
+	<filename>19.jpg</filename>
+	<path>E:\DL Potholes\pothole-image-dataset\Pothole_Image_Data\19.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>570</width>
+		<height>321</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>potholeGroup</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>198</xmin>
+			<ymin>145</ymin>
+			<xmax>491</xmax>
+			<ymax>321</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>potholeGroup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>200</ymin>
+			<xmax>363</xmax>
+			<ymax>315</ymax>
+		</bndbox>
+	</object>
+</annotation>
